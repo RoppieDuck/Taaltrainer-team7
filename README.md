@@ -4,7 +4,7 @@ Dit is, zoals net gezegd, een Taal trainer die gemaakt is door team 7. Deze appl
 
 
 Team 7 :
-Damian van Westerop
-Jalen Versteilen
-Kevin Volkers
+Damian van Westerop,
+Jalen Versteilen,
+Kevin Volkers,
 Bogdan (sorry als ik zijn naam verkeerd heb geschreven)
